@@ -13,21 +13,27 @@ Software Developer Trainee with strong knowledge of software engineering fundame
 
 - **Lankan Event Organizers (Web Development):**
   - Developed a responsive event management website supporting user bookings, service management (Chef, Decoration, DJ, etc.), custom event packages, and a PHP-MySQL backend.
+  - [**Web-Project**](https://github.com/Arshad-Mahroof/Web-Project)  
 
 - **Care Compass Hospital (Web Development):**
   - Built a basic hospital management website with patient registration, doctor appointment booking, and admin/staff management (PHP, MySQL).
+  - [**Web-Project**](https://github.com/Arshad-Mahroof/Web-Project)  
 
 - **CityCycle Rentals (Android App Development):**
   - Created a bike rental app featuring user authentication, bike location/reservation, rental management, and promotions. Focused on responsive UI and seamless UX.
+  - [**Mobile-Application-File**](https://github.com/Arshad-Mahroof/Mobile-Application-File)  
 
 - **The Little Bag Shop (Java OOP):**
   - Developed a Java application using OOP for product/order management and billing.
+  - [**OOP-Concept-Files**](https://github.com/Arshad-Mahroof/OOP-Concept-Files)  
 
 - **Cozy Comfort (C#):**
   - Multi-tier ordering system for a blanket manufacturer using ASP.NET Web API, Razor Pages, and WinForms (order management, user access, stock control).
+  - [**C-Sharp-Programing**](https://github.com/Arshad-Mahroof/C-Sharp-Programing) 
 
 - **Moon Hotel (C++):**
   - C++ console-based hotel management system for bookings, receptionist login, and billing.
+  - [**C-Applications**](https://github.com/Arshad-Mahroof/C-Applications)  
 
 ## Education
 
