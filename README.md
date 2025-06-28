@@ -21,7 +21,7 @@ Software Developer Trainee with strong knowledge of software engineering fundame
 
 - **CityCycle Rentals (Android App Development):**
   - Created a bike rental app featuring user authentication, bike location/reservation, rental management, and promotions. Focused on responsive UI and seamless UX.
-  - [**Mobile-Application-File**](https://github.com/Arshad-Mahroof/Mobile-Application-File)  
+  - [**Mobile-Application-File**](https://github.com/Arshad-Mahroof/Mobile-Application-Development.git) 
 
 - **The Little Bag Shop (Java OOP):**
   - Developed a Java application using OOP for product/order management and billing.
