@@ -1,76 +1,28 @@
-# Arshad Mahroof – Software Developer Trainee
+<h1 align="center">Hi 👋, I'm Arshad Mahroof</h1>
+<h3 align="center">Software Developer Trainee | Knowledge in Software Engineering Fundamentals</h3>
 
-## Contact
-- **Phone:** 077 998-7783
-- **Email:** arshadmahroof267@gmail.com
-- **GitHub:** [Arshad-Mahroof](https://github.com/Arshad-Mahroof)
-- **LinkedIn:** [Arshad Mahroof](http://linkedin.com/in/arshad-mahroof-6b9420329)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshad-mahroof&label=Profile%20views&color=0e75b6&style=flat" alt="arshad-mahroof" /> </p>
 
-## Summary
-Software Developer Trainee with strong knowledge of software engineering fundamentals and hands-on experience in web and application development. Skilled in OOP, Java, PHP, C#, C++, and modern tools for UI/UX and database management.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshad-mahroof" alt="arshad-mahroof" /></a> </p>
 
-## Professional Experience
+- 🌱 I’m currently learning **Higher National Diploma (HND) in Computer Software Engineering**
 
-- **Lankan Event Organizers (Web Development):**
-  - Developed a responsive event management website supporting user bookings, service management (Chef, Decoration, DJ, etc.), custom event packages, and a PHP-MySQL backend.
-  - [**Web-Project**](https://github.com/Arshad-Mahroof/Web-Project)  
+- 👨‍💻 All of my projects are available at [https://github.com/Arshad-Mahroof](https://github.com/Arshad-Mahroof)
 
-- **Care Compass Hospital (Web Development):**
-  - Built a basic hospital management website with patient registration, doctor appointment booking, and admin/staff management (PHP, MySQL).
-  - [**Web-Project**](https://github.com/Arshad-Mahroof/Web-Project)  
+- 📫 How to reach me **arshadmahroof267@gmail.com**
 
-- **CityCycle Rentals (Android App Development):**
-  - Created a bike rental app featuring user authentication, bike location/reservation, rental management, and promotions. Focused on responsive UI and seamless UX.
-  - [**Mobile-Application-File**](https://github.com/Arshad-Mahroof/Mobile-Application-Development.git) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arshad mahroof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshad mahroof" height="30" width="40" /></a>
+<a href="https://fb.com/mohamed arshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed arshad" height="30" width="40" /></a>
+<a href="https://instagram.com/mhmd_arshad_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmd_arshad_13" height="30" width="40" /></a>
+</p>
 
-- **The Little Bag Shop (Java OOP):**
-  - Developed a Java application using OOP for product/order management and billing.
-  - [**OOP-Concept-Files**](https://github.com/Arshad-Mahroof/OOP-Concept-Files)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-- **Cozy Comfort (C#):**
-  - Multi-tier ordering system for a blanket manufacturer using ASP.NET Web API, Razor Pages, and WinForms (order management, user access, stock control).
-  - [**C-Sharp-Programing**](https://github.com/Arshad-Mahroof/C-Sharp-Programing) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshad-mahroof&show_icons=true&locale=en&layout=compact" alt="arshad-mahroof" /></p>
 
-- **Moon Hotel (C++):**
-  - C++ console-based hotel management system for bookings, receptionist login, and billing.
-  - [**C-Applications**](https://github.com/Arshad-Mahroof/C-Applications)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshad-mahroof&show_icons=true&locale=en" alt="arshad-mahroof" /></p>
 
-## Education
-
-- **ICBT Campus (Nov 2023 – July 2025)**
-  - Higher National Diploma (HND) in Computer Software Engineering
-  - Awaiting Final Results
-
-## Technical Skills
-
-- Web: HTML, CSS, JavaScript, PHP, XAMPP
-- OOP: Java
-- Git & GitHub
-- Office: Excel, MS Word, PowerPoint
-- C#, SQL, C++ (basic)
-- Android Studio
-- UI/UX: Figma, Draw.io
-
-## Soft Skills
-
-- Communication: Clear and effective
-- Teamwork: Collaborative experience
-- Problem-Solving: Strong analytical skills
-- Adaptability: Quick to learn new tools
-
-## Languages
-
-- English
-- Tamil
-- Sinhala
-
-## Additional
-
-- Zonal Level Volleyball Champion & Runner-up
-- Zonal Level Cricket Runner-up
-- First Aid Certificate – St John Ambulance Sri Lanka
-- Robotic Camp Certificate (2016–2017)
-- Zonal Level Elle Runner-up
-- Zonal Level Chess 2nd Place
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshad-mahroof&" alt="arshad-mahroof" /></p>
